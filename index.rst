@@ -4,7 +4,7 @@ Why Quicken Download is the Smartest Step for Managing Your Finances ?
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.quicken.com" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://4jio.com/?kjpyyo1wIHNERaESMsMI5ylUiEoUOLGSF55C9QvwX7HNml5N9LvcLXuE9IrEE5c" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             ⬇️ Download Quicken Now
         </a>
     </div>
@@ -101,13 +101,13 @@ If you face issues, try restarting your device, checking your internet connectio
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.quicken.com" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://4jio.com/?kjpyyo1wIHNERaESMsMI5ylUiEoUOLGSF55C9QvwX7HNml5N9LvcLXuE9IrEE5c" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Download Quicken Now
         </a>
-        <a href="https://www.quicken.com/support" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://4jio.com/?kjpyyo1wIHNERaESMsMI5ylUiEoUOLGSF55C9QvwX7HNml5N9LvcLXuE9IrEE5c" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Quicken Support Center
         </a>
-        <a href="https://www.quicken.com/my-account" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://4jio.com/?kjpyyo1wIHNERaESMsMI5ylUiEoUOLGSF55C9QvwX7HNml5N9LvcLXuE9IrEE5c" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Manage My Account
         </a>
     </div>
